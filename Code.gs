@@ -1,3 +1,1 @@
-function test() {
-  Logger.log("Hello from Code.gs");
-}
+function pullDuiLuxuryArticles()
